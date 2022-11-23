@@ -160,7 +160,7 @@ function initialize()
 		//  Small Size
 		// rootScene.scale.set(1,1,1);
 		// rootScene.position.z = 2
-
+		consle.log('loading muscle B')
 		let muscleB = rootScene.getObjectByName("muscle_01");
 		// muscleB.position.z = 0.124; // Adjust Muscle B position
 		consle.log('muscleB loaded')

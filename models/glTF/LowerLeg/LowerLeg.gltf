@@ -1,0 +1,524 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.9.7",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 423312,
+            "uri": "buffer.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4992,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5484,
+            "byteOffset": 4992,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5484,
+            "byteOffset": 10476,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 3656,
+            "byteOffset": 15960,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 30096,
+            "byteOffset": 19616,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 33432,
+            "byteOffset": 49712,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 33432,
+            "byteOffset": 83144,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 22288,
+            "byteOffset": 116576,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 54432,
+            "byteOffset": 138864,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 57132,
+            "byteOffset": 193296,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 57132,
+            "byteOffset": 250428,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 38088,
+            "byteOffset": 307560,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 20832,
+            "byteOffset": 345648,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 21312,
+            "byteOffset": 366480,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 21312,
+            "byteOffset": 387792,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 14208,
+            "byteOffset": 409104,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 2496,
+            "bufferView": 0,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 457,
+            "bufferView": 1,
+            "byteOffset": 0,
+            "min": [
+                -33.0354385375977,
+                -172.194427490234,
+                -25.460334777832
+            ],
+            "max": [
+                34.178840637207,
+                175.546691894531,
+                24.9512767791748
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 457,
+            "bufferView": 2,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 457,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 15048,
+            "bufferView": 4,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2786,
+            "bufferView": 5,
+            "byteOffset": 0,
+            "min": [
+                2.39286136627197,
+                188.511825561523,
+                -109.231231689453
+            ],
+            "max": [
+                98.7955932617188,
+                486.645660400391,
+                -22.6303024291992
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2786,
+            "bufferView": 6,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 2786,
+            "bufferView": 7,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 27216,
+            "bufferView": 8,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 4761,
+            "bufferView": 9,
+            "byteOffset": 0,
+            "min": [
+                -39.938648223877,
+                -211.757141113281,
+                -48.9211311340332
+            ],
+            "max": [
+                39.4192237854004,
+                208.70182800293,
+                48.9211158752441
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 4761,
+            "bufferView": 10,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 4761,
+            "bufferView": 11,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 10416,
+            "bufferView": 12,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 1776,
+            "bufferView": 13,
+            "byteOffset": 0,
+            "min": [
+                -39.193920135498,
+                -7.88410139083862,
+                -22.2398624420166
+            ],
+            "max": [
+                39.1939163208008,
+                7.88417959213257,
+                22.2398681640625
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 1776,
+            "bufferView": 14,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 1776,
+            "bufferView": 15,
+            "byteOffset": 0
+        }
+    ],
+    "images": [
+        {
+            "name": "KneeC.JPG",
+            "uri": "KneeC.JPG"
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "textures": [
+        {
+            "name": "KneeC (Image)_2",
+            "sampler": 0,
+            "source": 0
+        }
+    ],
+    "materials": [
+        {
+            "name": "03 - Default",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.670588254928589,
+                    0.556862771511078,
+                    0.462745130062103,
+                    1.0
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.410838693380356
+            }
+        },
+        {
+            "name": "MuclesC",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0,
+                    "texCoord": 0
+                },
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.0880450904369354
+            }
+        },
+        {
+            "name": "05 - Default",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.850980460643768,
+                    0.662745118141174,
+                    0.576470613479614,
+                    0.25
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.70710676908493
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "muscle 04",
+            "primitives": [
+                {
+                    "material": 1,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 1,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 0
+                }
+            ]
+        },
+        {
+            "name": "muscle 05",
+            "primitives": [
+                {
+                    "material": 1,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 6,
+                        "POSITION": 5,
+                        "TEXCOORD_0": 7
+                    },
+                    "indices": 4
+                }
+            ]
+        },
+        {
+            "name": "Tibia",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 10,
+                        "POSITION": 9,
+                        "TEXCOORD_0": 11
+                    },
+                    "indices": 8
+                }
+            ]
+        },
+        {
+            "name": "Object003",
+            "primitives": [
+                {
+                    "material": 2,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 14,
+                        "POSITION": 13,
+                        "TEXCOORD_0": 15
+                    },
+                    "indices": 12
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "name": "Tibia",
+            "translation": [
+                -0.0243919938802719,
+                0.821452796459198,
+                -0.093120813369751
+            ],
+            "rotation": [
+                2.1855694143369e-08,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.00269993580877781,
+                0.00269993580877781,
+                0.00269993580877781
+            ],
+            "mesh": 2
+        },
+        {
+            "name": "muscle 04",
+            "translation": [
+                -0.0282410569489002,
+                0.881207644939423,
+                0.0187897924333811
+            ],
+            "rotation": [
+                0.0933929905295372,
+                -0.00329407444223762,
+                -0.0528702586889267,
+                0.994219124317169
+            ],
+            "scale": [
+                0.00269993580877781,
+                0.00269993534311652,
+                0.00269993557594717
+            ],
+            "mesh": 0
+        },
+        {
+            "name": "muscle 05",
+            "translation": [
+                -0.152925923466682,
+                0.0950111970305443,
+                0.0256150290369987
+            ],
+            "rotation": [
+                8.14603424714733e-08,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.00269993580877781,
+                0.00269993580877781,
+                0.00269993580877781
+            ],
+            "mesh": 1
+        },
+        {
+            "name": "Object003",
+            "translation": [
+                -0.0223812647163868,
+                1.37802469730377,
+                -0.0516492053866386
+            ],
+            "rotation": [
+                8.14603424714733e-08,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.00269993580877781,
+                0.00269993580877781,
+                0.00269993580877781
+            ],
+            "mesh": 3
+        }
+    ]
+}

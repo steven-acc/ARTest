@@ -1,0 +1,753 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.9.7",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 422744,
+            "uri": "buffer.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 4128,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 4836,
+            "byteOffset": 4128,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 4836,
+            "byteOffset": 8964,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 3224,
+            "byteOffset": 13800,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 4992,
+            "byteOffset": 17024,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5484,
+            "byteOffset": 22016,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5484,
+            "byteOffset": 27500,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 3656,
+            "byteOffset": 32984,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 4992,
+            "byteOffset": 36640,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5484,
+            "byteOffset": 41632,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5484,
+            "byteOffset": 47116,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 3656,
+            "byteOffset": 52600,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 4992,
+            "byteOffset": 56256,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5484,
+            "byteOffset": 61248,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5484,
+            "byteOffset": 66732,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 3656,
+            "byteOffset": 72216,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 66144,
+            "byteOffset": 75872,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 68448,
+            "byteOffset": 142016,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 68448,
+            "byteOffset": 210464,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 45632,
+            "byteOffset": 278912,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 26040,
+            "byteOffset": 324544,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 27060,
+            "byteOffset": 350584,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 27060,
+            "byteOffset": 377644,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 18040,
+            "byteOffset": 404704,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 2064,
+            "bufferView": 0,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 403,
+            "bufferView": 1,
+            "byteOffset": 0,
+            "min": [
+                25.0352478027344,
+                480.504516601563,
+                1.20182800292969
+            ],
+            "max": [
+                64.4377136230469,
+                520.735046386719,
+                21.0758571624756
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 403,
+            "bufferView": 2,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 403,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 2496,
+            "bufferView": 4,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 457,
+            "bufferView": 5,
+            "byteOffset": 0,
+            "min": [
+                -32.9576301574707,
+                -136.700469970703,
+                -24.9512710571289
+            ],
+            "max": [
+                32.9576072692871,
+                162.546722412109,
+                24.9512767791748
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 457,
+            "bufferView": 6,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 457,
+            "bufferView": 7,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 2496,
+            "bufferView": 8,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 457,
+            "bufferView": 9,
+            "byteOffset": 0,
+            "min": [
+                8.5779504776001,
+                534.5859375,
+                -74.1172561645508
+            ],
+            "max": [
+                68.4298858642578,
+                852.183898925781,
+                -13.7127618789673
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 457,
+            "bufferView": 10,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 457,
+            "bufferView": 11,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 2496,
+            "bufferView": 12,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 457,
+            "bufferView": 13,
+            "byteOffset": 0,
+            "min": [
+                51.6225967407227,
+                533.447204589844,
+                -78.4925308227539
+            ],
+            "max": [
+                111.891891479492,
+                860.521545410156,
+                -20.3201713562012
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 457,
+            "bufferView": 14,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 457,
+            "bufferView": 15,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 33072,
+            "bufferView": 16,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 5704,
+            "bufferView": 17,
+            "byteOffset": 0,
+            "min": [
+                -28.0898818969727,
+                475.513763427734,
+                -52.3712539672852
+            ],
+            "max": [
+                100.760261535645,
+                914.687622070313,
+                27.6497058868408
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 5704,
+            "bufferView": 18,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 5704,
+            "bufferView": 19,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 13020,
+            "bufferView": 20,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2255,
+            "bufferView": 21,
+            "byteOffset": 0,
+            "min": [
+                -44.1106719970703,
+                -25.8679676055908,
+                -31.2076454162598
+            ],
+            "max": [
+                44.1106796264648,
+                25.8680458068848,
+                31.2076454162598
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 2255,
+            "bufferView": 22,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 2255,
+            "bufferView": 23,
+            "byteOffset": 0
+        }
+    ],
+    "images": [
+        {
+            "name": "KneeC.JPG",
+            "uri": "KneeC.JPG"
+        },
+        {
+            "name": "KneeC.JPG",
+            "uri": "KneeC.JPG"
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "textures": [
+        {
+            "name": "KneeC (Image)",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "KneeC (Image)_2",
+            "sampler": 0,
+            "source": 1
+        }
+    ],
+    "materials": [
+        {
+            "name": "KneeC",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0,
+                    "texCoord": 0
+                },
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.0880450904369354
+            }
+        },
+        {
+            "name": "MuclesC",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 1,
+                    "texCoord": 0
+                },
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.0880450904369354
+            }
+        },
+        {
+            "name": "03 - Default",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.670588254928589,
+                    0.556862771511078,
+                    0.462745130062103,
+                    1.0
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.410838693380356
+            }
+        },
+        {
+            "name": "05 - Default",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.850980460643768,
+                    0.662745118141174,
+                    0.576470613479614,
+                    0.25
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.70710676908493
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "patella",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 1,
+                        "TEXCOORD_0": 3
+                    },
+                    "indices": 0
+                }
+            ]
+        },
+        {
+            "name": "muscle 01",
+            "primitives": [
+                {
+                    "material": 1,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 6,
+                        "POSITION": 5,
+                        "TEXCOORD_0": 7
+                    },
+                    "indices": 4
+                }
+            ]
+        },
+        {
+            "name": "muscle 02",
+            "primitives": [
+                {
+                    "material": 1,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 10,
+                        "POSITION": 9,
+                        "TEXCOORD_0": 11
+                    },
+                    "indices": 8
+                }
+            ]
+        },
+        {
+            "name": "muscle 03",
+            "primitives": [
+                {
+                    "material": 1,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 14,
+                        "POSITION": 13,
+                        "TEXCOORD_0": 15
+                    },
+                    "indices": 12
+                }
+            ]
+        },
+        {
+            "name": "Articular Cartilage",
+            "primitives": [
+                {
+                    "material": 2,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 18,
+                        "POSITION": 17,
+                        "TEXCOORD_0": 19
+                    },
+                    "indices": 16
+                }
+            ]
+        },
+        {
+            "name": "Object004",
+            "primitives": [
+                {
+                    "material": 3,
+                    "mode": 4,
+                    "attributes": {
+                        "NORMAL": 22,
+                        "POSITION": 21,
+                        "TEXCOORD_0": 23
+                    },
+                    "indices": 20
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "name": "patella",
+            "translation": [
+                -0.152925923466682,
+                0.239680603146553,
+                0.0256150290369987
+            ],
+            "rotation": [
+                2.1855694143369e-08,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.00269993580877781,
+                0.00269993580877781,
+                0.00269993580877781
+            ],
+            "mesh": 0
+        },
+        {
+            "name": "muscle 01",
+            "translation": [
+                -0.0956021472811699,
+                2.05652093887329,
+                0.0921630635857582
+            ],
+            "rotation": [
+                2.1855694143369e-08,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.00269993580877781,
+                0.00269993580877781,
+                0.00269993580877781
+            ],
+            "mesh": 1
+        },
+        {
+            "name": "Articular Cartilage",
+            "translation": [
+                -0.152925923466682,
+                0.239680603146553,
+                0.0256150290369987
+            ],
+            "rotation": [
+                2.1855694143369e-08,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.00269993580877781,
+                0.00269993580877781,
+                0.00269993580877781
+            ],
+            "mesh": 4
+        },
+        {
+            "name": "Object004",
+            "translation": [
+                -0.00355220539495349,
+                1.58614838123322,
+                -0.0382887274026871
+            ],
+            "rotation": [
+                8.14603424714733e-08,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.00269993580877781,
+                0.00269993580877781,
+                0.00269993580877781
+            ],
+            "mesh": 5
+        },
+        {
+            "name": "muscle 02",
+            "translation": [
+                -0.152925923466682,
+                0.239680603146553,
+                0.0256150290369987
+            ],
+            "rotation": [
+                8.14603424714733e-08,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.00269993580877781,
+                0.00269993580877781,
+                0.00269993580877781
+            ],
+            "mesh": 2
+        },
+        {
+            "name": "muscle 03",
+            "translation": [
+                -0.152925923466682,
+                0.239680603146553,
+                0.0256150290369987
+            ],
+            "rotation": [
+                8.14603424714733e-08,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                0.00269993580877781,
+                0.00269993580877781,
+                0.00269993580877781
+            ],
+            "mesh": 3
+        }
+    ]
+}

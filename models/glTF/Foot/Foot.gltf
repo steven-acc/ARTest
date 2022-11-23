@@ -1,0 +1,201 @@
+{
+    "asset": {
+        "generator": "FBX2glTF v0.9.7",
+        "version": "2.0"
+    },
+    "scene": 0,
+    "buffers": [
+        {
+            "byteLength": 311720,
+            "uri": "buffer.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 41520,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 57900,
+            "byteOffset": 41520,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 57900,
+            "byteOffset": 99420,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 77200,
+            "byteOffset": 157320,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 38600,
+            "byteOffset": 234520,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteLength": 38600,
+            "byteOffset": 273120,
+            "target": 34962
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Root Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "accessors": [
+        {
+            "componentType": 5123,
+            "type": "SCALAR",
+            "count": 20760,
+            "bufferView": 0,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 4825,
+            "bufferView": 1,
+            "byteOffset": 0,
+            "min": [
+                -0.000757512112613767,
+                -0.00202192296274006,
+                -0.000693722337018698
+            ],
+            "max": [
+                0.000829609634820372,
+                0.00253219739533961,
+                0.000973068992607296
+            ]
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC3",
+            "count": 4825,
+            "bufferView": 2,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC4",
+            "count": 4825,
+            "bufferView": 3,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 4825,
+            "bufferView": 4,
+            "byteOffset": 0
+        },
+        {
+            "componentType": 5126,
+            "type": "VEC2",
+            "count": 4825,
+            "bufferView": 5,
+            "byteOffset": 0
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "materials": [
+        {
+            "name": "03 - Default",
+            "alphaMode": "OPAQUE",
+            "extras": {
+                "fromFBX": {
+                    "shadingModel": "Phong",
+                    "isTruePBR": false
+                }
+            },
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.670588254928589,
+                    0.556862771511078,
+                    0.462745130062103,
+                    1.0
+                ],
+                "metallicFactor": 0.400000005960464,
+                "roughnessFactor": 0.410838693380356
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Foot",
+            "primitives": [
+                {
+                    "material": 0,
+                    "mode": 4,
+                    "attributes": {
+                        "COLOR_0": 3,
+                        "NORMAL": 2,
+                        "POSITION": 1,
+                        "TEXCOORD_0": 4,
+                        "TEXCOORD_1": 5
+                    },
+                    "indices": 0
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "RootNode",
+            "translation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "children": [
+                1
+            ]
+        },
+        {
+            "name": "Foot",
+            "translation": [
+                -0.0347696058452129,
+                0.0915469750761986,
+                0.0518703684210777
+            ],
+            "rotation": [
+                0.707106709480286,
+                -0.0,
+                -0.0,
+                0.707106828689575
+            ],
+            "scale": [
+                -136.295440673828,
+                -136.295440673828,
+                -136.295440673828
+            ],
+            "mesh": 0
+        }
+    ]
+}

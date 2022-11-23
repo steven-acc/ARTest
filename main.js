@@ -163,7 +163,8 @@ function initialize()
 
 		let muscleB = rootScene.getObjectByName("muscle_01");
 		// muscleB.position.z = 0.124; // Adjust Muscle B position
-		
+		consle.log('muscleB loaded')
+		consle.log(muscleB)
 		let muscleA1 = rootScene.getObjectByName("muscle_02");
 		let muscleA2 = rootScene.getObjectByName("muscle_03");
 

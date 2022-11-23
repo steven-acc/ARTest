@@ -145,7 +145,7 @@ function initialize()
 	
 
 	modelLoader.load( modelPaths[0], function ( gltf ) {
-		
+
 		let rootScene = gltf.scene;
 		markerRoots[0].add(rootScene);
 
@@ -160,11 +160,10 @@ function initialize()
 		//  Small Size
 		// rootScene.scale.set(1,1,1);
 		// rootScene.position.z = 2
-		consle.log('loading muscle B')
+
 		let muscleB = rootScene.getObjectByName("muscle_01");
 		// muscleB.position.z = 0.124; // Adjust Muscle B position
-		consle.log('muscleB loaded')
-		consle.log(muscleB)
+
 		let muscleA1 = rootScene.getObjectByName("muscle_02");
 		let muscleA2 = rootScene.getObjectByName("muscle_03");
 
@@ -270,7 +269,7 @@ function initialize()
 		// console.log(dumpObject(rootScene).join('\n'));
 
 	}, (xhr) => {
-
+		
 	}, (error) =>{
 		console.log(error)
 	} );
